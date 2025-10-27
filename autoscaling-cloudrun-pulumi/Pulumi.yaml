@@ -1,0 +1,3 @@
+name: autoscaling-cloudrun
+runtime: python
+description: Cloud Run autoscaling lab.

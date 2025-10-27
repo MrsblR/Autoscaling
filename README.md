@@ -6,7 +6,7 @@ Este laboratorio demuestra la implementación y evaluación de **autoscaling** e
 
 El objetivo principal es analizar el comportamiento dinámico del escalamiento automático bajo condiciones de carga progresiva, asegurando disponibilidad, rendimiento y eficiencia en el uso de recursos.
 
----
+
 
 ## Arquitectura
 
